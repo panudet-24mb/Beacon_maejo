@@ -1,2 +1,2 @@
 # Beacon_maejo
-Simple_beacon ---> 
+Simple_beacon ---> ESP32
